@@ -1,5 +1,11 @@
 # Hello, Django Celery Beat!
 
+Activate the virtual environment:
+
+```sh
+pipenv shell
+```
+
 Start a scheduler:
 
 ```sh
